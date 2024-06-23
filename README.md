@@ -43,14 +43,6 @@
 ### `Particle` クラス
 花火の爆発時に生成されるパーティクルを管理します。
 
-## その他の情報
-
-このプロジェクトは、Processingの練習として作成されました。詳細なドキュメントやチュートリアルについては、[Processingの公式サイト](https://processing.org/)をご覧ください。
-
-## ライセンス
-
-このプロジェクトはMITライセンスの下で公開されています。詳細はLICENSEファイルをご覧ください。
-
 # FireworksProject
 # FireworksProject
 # FireworksProject
